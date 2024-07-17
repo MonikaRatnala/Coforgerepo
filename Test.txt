@@ -1,2 +1,6 @@
 i am master
+<<<<<<< HEAD
 i am master new
+=======
+i am rajat
+>>>>>>> rajat
