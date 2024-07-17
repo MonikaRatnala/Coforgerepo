@@ -1,2 +1,2 @@
 i am master
-i am branch
+i am master
